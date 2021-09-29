@@ -1,1 +1,1 @@
-Cronômetro de contagem regrassiva simples e reativo
+Cronômetro de contagem regressiva simples e responsivo.
